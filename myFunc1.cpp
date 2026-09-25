@@ -532,3 +532,41 @@ bool compareString(char* const& s1, char* const& s2)
 {
 	return strcmp(s1, s2) > 0;
 }
+
+class Area
+{
+private:
+	static int count;
+
+public:
+	static double triangle(double a, double h)
+	{
+		count++;
+		return a * h / 2;
+	}
+
+	static double rectangle(double a, double b)
+	{
+		count++;
+		return a * b;
+	}
+
+	static double square(double a)
+	{
+		count++;
+		return a * a;
+	}
+
+	static double rhombus(double d1, double d2)
+	{
+		count++;
+		return d1 * d2 / 2;
+	}
+
+	static int getCount()
+	{
+		return count;
+	}
+};
+
+int Area::count = 0;
