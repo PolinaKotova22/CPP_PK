@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ExamTestSystem\\x64\\Debug\\TestSystemApp.obj",
+            "outputs": [
+                "ExamTestSystem\\x64\\Debug\\TestSystemApp.h.obj.dt.module.json",
+                "ExamTestSystem\\x64\\Debug\\TestSystemApp.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

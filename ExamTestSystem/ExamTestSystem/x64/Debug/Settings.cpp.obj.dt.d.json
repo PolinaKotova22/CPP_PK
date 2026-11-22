@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\solow\\source\\repos\\examtestsystem\\settings.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\solow\\source\\repos\\examtestsystem\\settings.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ExamTestSystem\\x64\\Debug\\md5.obj",
+            "outputs": [
+                "ExamTestSystem\\x64\\Debug\\md5.cpp.obj.dt.module.json",
+                "ExamTestSystem\\x64\\Debug\\md5.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

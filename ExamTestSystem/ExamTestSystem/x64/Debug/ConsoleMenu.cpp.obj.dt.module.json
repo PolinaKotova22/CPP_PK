@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ExamTestSystem\\x64\\Debug\\ConsoleMenu.obj",
+            "outputs": [
+                "ExamTestSystem\\x64\\Debug\\ConsoleMenu.cpp.obj.dt.module.json",
+                "ExamTestSystem\\x64\\Debug\\ConsoleMenu.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
