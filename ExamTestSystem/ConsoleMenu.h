@@ -184,7 +184,7 @@ namespace ConsoleMenu
 				{
 					if (i == selectedItem)
 					{
-						// Активний пункт: білий текст на пурпурному фоні (як у викладача)
+					
 						setColor(White, Magenta);
 						setCursorPosition(x, y + i);
 						cout << std::setw(maxLengthItem) << std::left << menuItems[i];
@@ -231,3 +231,4 @@ namespace ConsoleMenu
 		}
 	};
 }
+
